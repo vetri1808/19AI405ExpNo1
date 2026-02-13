@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
+<h3>Name: VETRISELVAN.S  </h3>
+<h3>Register Number: 212224060298</h3>
 
 
 <h3>AIM:</h3>
@@ -40,3 +40,5 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
+# Step 1 & 2: Inputs and outputs handled in environment
